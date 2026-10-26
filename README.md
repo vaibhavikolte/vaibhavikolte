@@ -1,18 +1,18 @@
 
 <h1 align="center">👋 Hi, I'm Vaibhavi Kolte</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Data Visualization | Business Intelligence</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
 
 <p align="center">
-  Turning data into meaningful insights using analytics and visualization.
+  Turning data into meaningful insights through analytics and visualization.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhavi-kolte-0824a0420/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vaibhavikolte">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -21,56 +21,55 @@
 ## 🙋‍♀️ About Me
 
 - 🎯 Aspiring Data Analyst seeking entry-level opportunities.
-- 📚 Currently pursuing a Data Analytics course at Fortune Cloud Technology.
-- 📊 Interested in data analysis, reporting, and dashboard development.
-- 💡 Learning through hands-on projects and continuous practice.
-- 🌱 Improving my skills in SQL, Power BI, Excel, and Python.
+- 📚 Data Analytics course at Fortune Cloud Technology — In Progress.
+- 📊 Interested in data analysis, business intelligence, and reporting.
+- 🌱 Building practical skills through hands-on projects.
 
 ---
 
-## 🛠️ Languages, Tools & Technologies
-
-### 📊 Data Analysis & Business Intelligence
+## 📊 Data Analysis & Business Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### 💻 Programming & Database
+## 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&perline=7" />
 </p>
+## 📈 Core Analytics Skills
 
-### 📈 Analytics Skills
-
-- 🧹 Data Cleaning & Transformation
-- 📊 Data Visualization & KPI Analysis
-- 🧩 Data Modeling & Relationships
-- 📉 Dashboard Development
-- 🔎 Exploratory Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Data_Cleaning-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Visualization-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Modeling-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KPI_Analysis-EA580C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard_Development-9333EA?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
+
+### 🔷 Nexora
+
+- 💻 Project focused on practical application development.
+- 🛠️ Add the technologies and features used in your actual Nexora project here.
+
+🔗 [View My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
 
 ### 🍏 Apple Greenhouse Gas Emissions Analysis
-- 📊 Developed a Power BI dashboard to explore greenhouse gas emissions and sustainability trends.
-- 🧹 Used Power Query for data transformation.
-- 📈 Used visualizations and KPIs to present emission patterns.
 
-🔗 [View Project Repository](https://github.com/vaibhavikolte/apple-greenhouse-gas-emissions)
+- 📊 Power BI dashboard analyzing greenhouse gas emissions and sustainability trends.
+- 🧹 Data transformation using Power Query.
+- 📈 Visual analysis of emissions and sustainability indicators.
 
-### 🛒 Automated Sales Analytics Engine
-- 🐍 Python-based data cleaning and analysis.
-- 🗄️ SQL/SQLite for storing and querying sales data.
-- 📊 Excel and Power BI for reporting and visualization.
-
-🔗 [Explore My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
+🔗 [View My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
 
 ---
 
