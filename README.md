@@ -1,38 +1,55 @@
-# Hi, I'm Vaibhavi Kolte 👋
+<h1 align="center">👋 Hi, I'm Vaibhavi Kolte</h1>
 
-### Aspiring Data Analyst | Excel • SQL • Power BI
+<h3 align="center">📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
 
-I'm an aspiring Data Analyst building my skills in data analysis, data visualization, and business intelligence through continuous learning and hands-on projects.
+<p align="center">
+  Passionate about Data Analytics, Data Visualization and Business Intelligence.
+</p>
 
-- 📊 Learning data analytics and business intelligence
-- 📈 Working on data analysis and dashboard projects
-- 🌱 Currently pursuing a Data Analytics course at Fortune Cloud Technology
-- 🎯 Interested in entry-level Data Analyst opportunities
+<h2>💻 Languages and Tools</h2>
 
-### 🛠️ Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
 
-- **Data Analysis:** Excel, SQL
-- **Business Intelligence:** Power BI, DAX
-- **Data Transformation:** Power Query, Data Cleaning
-- **Programming:** Python (Basics)
-- **Analytics:** Data Visualization, KPI Analysis, Dashboard Development
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://powerquery.microsoft.com/">
+    <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+</p>
 
-### 📂 Projects
+<h2>📂 My Projects</h2>
 
-- **Apple Greenhouse Gas Emissions Analysis** — Power BI dashboard analyzing emissions and sustainability trends.
+- 📊 Apple Greenhouse Gas Emissions Analysis — Power BI Dashboard
+- 🐍 Automated Sales Analytics Engine — Python, SQL, Excel and Power BI
 
-*More project details and repositories will be added as I progress.*
+<h2>🎓 Certifications</h2>
 
-### 📜 Certifications
+- 📘 Data Analytics Course — Fortune Cloud Technology (In Progress)
+- 🏆 Deloitte Data Analytics Job Simulation
 
-- Data Analytics Course — Fortune Cloud Technology *(In Progress)*
-- Deloitte Data Analytics Job Simulation *(Completed)*
+<h2>🌐 Connect With Me</h2>
 
-### 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/vaibhavi-kolte-0824a0420/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vaibhavikolte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- **LinkedIn:** https://www.linkedin.com/in/vaibhavi-kolte-0824a0420/
-- **Email:** vaibhavikolte8530@gmail.com
+<h2>📈 GitHub Statistics</h2>
 
----
-
-*Learning, building, and growing in Data Analytics.*
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavikolte&show_icons=true&theme=tokyonight" />
+</p>
