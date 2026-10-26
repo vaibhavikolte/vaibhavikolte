@@ -1,55 +1,97 @@
+
 <h1 align="center">👋 Hi, I'm Vaibhavi Kolte</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Data Visualization | Business Intelligence</h3>
 
 <p align="center">
-  Passionate about Data Analytics, Data Visualization and Business Intelligence.
+  Turning data into meaningful insights using analytics and visualization.
 </p>
 
-<h2>💻 Languages and Tools</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
-</p>
-
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhavi-kolte-0824a0420/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://powerquery.microsoft.com/">
-    <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://github.com/vaibhavikolte">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-<h2>📂 My Projects</h2>
+---
 
-- 📊 Apple Greenhouse Gas Emissions Analysis — Power BI Dashboard
-- 🐍 Automated Sales Analytics Engine — Python, SQL, Excel and Power BI
+## 🙋‍♀️ About Me
 
-<h2>🎓 Certifications</h2>
+- 🎯 Aspiring Data Analyst seeking entry-level opportunities.
+- 📚 Currently pursuing a Data Analytics course at Fortune Cloud Technology.
+- 📊 Interested in data analysis, reporting, and dashboard development.
+- 💡 Learning through hands-on projects and continuous practice.
+- 🌱 Improving my skills in SQL, Power BI, Excel, and Python.
 
-- 📘 Data Analytics Course — Fortune Cloud Technology (In Progress)
-- 🏆 Deloitte Data Analytics Job Simulation
+---
 
-<h2>🌐 Connect With Me</h2>
+## 🛠️ Languages, Tools & Technologies
+
+### 📊 Data Analysis & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+### 💻 Programming & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite,git,github,vscode&perline=7" />
+</p>
+
+### 📈 Analytics Skills
+
+- 🧹 Data Cleaning & Transformation
+- 📊 Data Visualization & KPI Analysis
+- 🧩 Data Modeling & Relationships
+- 📉 Dashboard Development
+- 🔎 Exploratory Data Analysis
+
+---
+
+## 📂 Featured Projects
+
+### 🍏 Apple Greenhouse Gas Emissions Analysis
+- 📊 Developed a Power BI dashboard to explore greenhouse gas emissions and sustainability trends.
+- 🧹 Used Power Query for data transformation.
+- 📈 Used visualizations and KPIs to present emission patterns.
+
+🔗 [View Project Repository](https://github.com/vaibhavikolte/apple-greenhouse-gas-emissions)
+
+### 🛒 Automated Sales Analytics Engine
+- 🐍 Python-based data cleaning and analysis.
+- 🗄️ SQL/SQLite for storing and querying sales data.
+- 📊 Excel and Power BI for reporting and visualization.
+
+🔗 [Explore My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
+
+---
+
+## 🎓 Certifications & Learning
+
+- 🏆 Deloitte Data Analytics Job Simulation — Completed
+- 📘 Data Analytics Course, Fortune Cloud Technology — In Progress
+
+---
+
+## 🤝 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/vaibhavi-kolte-0824a0420/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhavi_Kolte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vaibhavikolte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:vaibhavikolte8530@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h2>📈 GitHub Statistics</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavikolte&show_icons=true&theme=tokyonight" />
+<p align="center">
+  ✨ Learning • Building • Analyzing • Growing ✨
 </p>
