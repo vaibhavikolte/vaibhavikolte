@@ -42,6 +42,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&perline=7" />
 </p>
+
 ## 📈 Core Analytics Skills
 
 <p>
@@ -54,24 +55,51 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 🔷 Nexora
+### 🔷 Nexora — Web Application Project
 
-- 💻 Project focused on practical application development.
-- 🛠️ Add the technologies and features used in your actual Nexora project here.
+<p>
+  <img src="https://img.shields.io/badge/Project-Nexora-6C63FF?style=for-the-badge" />
+</p>
 
-🔗 [View My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
-
-### 🍏 Apple Greenhouse Gas Emissions Analysis
-
-- 📊 Power BI dashboard analyzing greenhouse gas emissions and sustainability trends.
-- 🧹 Data transformation using Power Query.
-- 📈 Visual analysis of emissions and sustainability indicators.
+- 💡 Developed a project focused on providing a practical digital solution.
+- 🖥️ Worked on the application structure and user-facing features.
+- 🛠️ Explored the connection between frontend and backend components.
+- 📌 Project details and technologies can be explored in the repository.
 
 🔗 [View My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
 
 ---
+
+### 🍏 Apple Greenhouse Gas Emissions Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Query-Data_Transformation-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-KPI_Analysis-0078D4?style=for-the-badge" />
+</p>
+
+- 📊 Developed an interactive Power BI dashboard to analyze greenhouse gas emissions.
+- 🧹 Used Power Query to clean and transform data for analysis.
+- 📈 Created visualizations to explore emission trends and sustainability indicators.
+- 🎯 Organized insights across multiple report pages, including emission analysis, scope and source analysis, and product carbon footprint.
+
+🔗 [Explore My GitHub Repositories](https://github.com/vaibhavikolte?tab=repositories)
+
+---
+
+## 🧰 Technologies Used
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ## 🎓 Certifications & Learning
 
